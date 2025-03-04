@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing B.E. Computer Engineering.<br>-Intersted in data analysis and machine learning.
+I'm currently pursuing B.E. Computer Engineering.<br>- Currently intersted in data analysis and machine learning. 
 
 
 ## 🌐 Socials:
