@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing B.E. Computer Engineering.<br>- Currently intersted in data analysis and machine learning. 
+I'm currently pursuing B.E. Computer Engineering.<br>- Learning to build applications with Java. <br>- Currently interested in data analysis and machine learning. 
 
 
 ## 🌐 Socials:
